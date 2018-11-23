@@ -60,7 +60,7 @@
     "cordova": {
         "plugins": {
             "cordova-plugin-ionic": {
-                "APP_ID": "",
+                "APP_ID": "ae0a43b0",
                 "CHANNEL_NAME": "ionicapp"
             }
         }
